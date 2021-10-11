@@ -1,0 +1,1 @@
+a<-"a<-0;cat(sub(0,deparse(a),a))";cat(sub(0,deparse(a),a))
